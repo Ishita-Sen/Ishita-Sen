@@ -1,4 +1,4 @@
-![logo](https://github.com/SoumyaDeepSaha1200/SoumyaDeepSaha1200/blob/main/2.png)
+![logo]([https://github.com/SoumyaDeepSaha1200/SoumyaDeepSaha1200/blob/main/2.png](https://github.com/Ishita-Sen/Ishita-Sen/blob/main/Github.png))
 <h1 align="center">Hi 👋, I'm Ishita Sen</h1>
 <h3 align="center">A passionate Full Stack Web Developer | App Developer | Software Enginner from India</h3>
 
